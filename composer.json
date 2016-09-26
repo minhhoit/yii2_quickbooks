@@ -1,0 +1,26 @@
+{
+    "name": "minhhoit/yii2_quickbooks",
+    "description": "The Quickbooks Online extension for the Yii2 framework",
+    "keywords": ["yii2", "quickbooks"],
+    "homepage": "https://github.com/minhhoit/yii2_quickbooks",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/minhhoit/yii2_quickbooks/issues",
+        "source": "https://github.com/minhhoit/yii2_quickbooks"
+    },
+    "authors": [
+        {
+            "name": "Andrew",
+            "email": "hoangminh.it4u@mail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": ">=2.0.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "minhhoit\\yii2_quickbooks\\": ""
+        }
+    }
+}
